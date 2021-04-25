@@ -19,11 +19,13 @@ The multipurpose calculator desktop app includes various calculators for day to 
 
 # How to Use :-
 ```
-git clone https://github.com/MeghanshuKumrawat/Multipurpose-Calculator
+git clone https://github.com/MeghanshuKumrawat/Multipurpose-Calculator.git
 cd Multipurpose-Calculator
 python main.py
 ```
 
 # Output :-
 
-![output image](https://github.com/MeghanshuKumrawat/Multipurpose-Calculator/output images/blob/master/Output.png)
+![output image](https://github.com/MeghanshuKumrawat/Multipurpose-Calculator/blob/main/output%20images/Screenshot%20(255).png)
+![output image](https://github.com/MeghanshuKumrawat/Multipurpose-Calculator/blob/main/output%20images/Screenshot%20(256).png)
+![output image](https://github.com/MeghanshuKumrawat/Multipurpose-Calculator/blob/main/output%20images/Screenshot%20(258).png)
